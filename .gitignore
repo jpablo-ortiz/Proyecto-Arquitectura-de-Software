@@ -1,4 +1,3 @@
-/Dominio-OCR/target/
 #
 # Project specific excludes
 #
@@ -24,7 +23,7 @@ tomcat
 *.class
 
 # Maven 
-target/
+**/target
 
 # IntelliJ project files 
 *.iml
